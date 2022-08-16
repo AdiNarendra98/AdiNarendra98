@@ -27,7 +27,7 @@
 
 - For any projects,ideas or collaborations feel free to reach me at my mail ✉️ : adinarendra0108@gmail.com
 
-- Link to Curriculum vitae 📑 : [CV](https://drive.google.com/file/d/1Vg6U3lafTrGfWSUnq-owywPBloGADI8T/view?usp=sharing)
+- Link to Curriculum vitae 📑 : [My CV](https://drive.google.com/file/d/1Vg6U3lafTrGfWSUnq-owywPBloGADI8T/view?usp=sharing)
 
 
 
