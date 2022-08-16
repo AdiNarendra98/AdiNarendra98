@@ -18,7 +18,12 @@
 
 - I completed my undergrad 👨🏽‍🎓 from [College of Engineering and Techonlogy,Bhubaneswar(now OUTR)](https://www.cet.edu.in), under Prof AK Das and Prof Sujit Behera working on my thesis "**[iDresser: an AI Fashion Assistant](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/iDresser-An%20AI%20Based%20Fashion%20Assistant)**"
 
-- I mostly focus on **AI for Social Good with focus on Healthcare and Education** and I also love to work on **Data Ethics and Policies in AI**. 
+- My research intrests lie broadly but not limited in : 
+     - **AI for Social Good with focus on Healthcare and Sustainability** 
+     - **Data Ethics and Policies in AI**
+     - **Human-AI Collaboration**
+     - **AI for Creativity** 
+    
 
 - For any projects,ideas or collaborations feel free to reach me at my mail ✉️ : adinarendra0108@gmail.com
 
