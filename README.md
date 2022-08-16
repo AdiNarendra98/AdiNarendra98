@@ -20,7 +20,7 @@
 
 - I mostly focus on **AI for Social Good with focus on Healthcare and Education** and I also love to work on **Data Ethics and Policies in AI**. 
 
-- For any projects,ideas or collaborations feel free to can reach me at my mail ✉️ : adinarendra0108@gmail.com
+- For any projects,ideas or collaborations feel free to reach me at my mail ✉️ : adinarendra0108@gmail.com
 
 - Link to Curriculum vitae 📑 : [CV](https://drive.google.com/file/d/1Vg6U3lafTrGfWSUnq-owywPBloGADI8T/view?usp=sharing)
 
