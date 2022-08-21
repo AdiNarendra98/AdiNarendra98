@@ -16,7 +16,7 @@
 
 - I also spent 2 wonderful summers☀️ at Schools on Deep Learning for Medcial Imaging at **[ETS Montreal](https://event.fourwaves.com/dlmi2022/pages)** in 2022 and on AI and Computer Vision at **[IIIT Hyderabad](https://cvit.iiit.ac.in/summerschool2021/)** in 2021. 
 
-- I completed my undergrad 👨🏽‍🎓 from [College of Engineering and Techonlogy,Bhubaneswar(now OUTR)](https://www.cet.edu.in), under Prof AK Das and Prof Sujit Behera working on my thesis "**[iDresser: an AI Fashion Assistant](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/iDresser-An%20AI%20Based%20Fashion%20Assistant)**"
+- I completed my undergrad 👨🏽‍🎓 from **[College of Engineering and Techonlogy,Bhubaneswar(now OUTR)](https://www.cet.edu.in)**, under Prof AK Das and Prof Sujit Behera working on my thesis "**[iDresser: an AI Fashion Assistant](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/iDresser-An%20AI%20Based%20Fashion%20Assistant)**"
 
 - My research intrests lie broadly but not limited in : 
      - **AI for Social Good with focus on Healthcare and Sustainability** 
