@@ -18,7 +18,7 @@
 
 - I was also fortunate enough to work under the guidance of [**Dr I.Saha**](https://ict.iitk.ac.in) of **IIT-Kanpur** working on AI Based Cyber Physical Systems. Previously I also worked as a Junior Machine Learning Engineer at **[Omdena](https://omdena.com)** and as a Data Science Intern, at **[iNueron.ai](https://internship.ineuron.ai)**.
 
-- I also spent 2 wonderful summers☀️ at Schools on Deep Learning for Medcial Imaging at **[ETS Montreal](https://event.fourwaves.com/dlmi2022/pages)** in 2022 and on AI and Computer Vision at **[IIIT Hyderabad](https://cvit.iiit.ac.in/summerschool2021/)** in 2021. 
+- I also spent 2 wonderful summers☀️ at Schools on Deep Learning for Medical Imaging at **[ETS Montreal](https://event.fourwaves.com/dlmi2022/pages)** in 2022 and on AI and Computer Vision at **[IIIT Hyderabad](https://cvit.iiit.ac.in/summerschool2021/)** in 2021. 
 
 - I completed my undergrad 👨🏽‍🎓 from **[College of Engineering and Techonlogy,Bhubaneswar(now OUTR)](https://www.cet.edu.in)**, under Prof AK Das and Prof Sujit Behera working on my thesis "**[iDresser: an AI Fashion Assistant](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/iDresser-An%20AI%20Based%20Fashion%20Assistant)**"
 
