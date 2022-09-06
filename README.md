@@ -16,7 +16,7 @@
 
 - I'm **Aditya Narendra** a Deep Learning Intern 🧑🏻‍💻,at [**Dr M.Xa's Lab**](https://www.cs.cmu.edu) at Carnegie Mellon University working on Biomedical Imaging Systems and Data Analysis.I also work as a Research Collaborator at **[Center of Excellence - Artificial Intelligence, CET BBSR](https://www.linkedin.com/company/center-of-excellence-artificial-intelligence-bbsr/mycompany/)** on Intelligent Traffic Systems .
 
-- I was also fortunate enough to work under the guidance of [**Dr I.Saha**](https://ict.iitk.ac.in) of **IIT-Kanpur** working on AI Based Cyber Physical Systems. Previously I also worked as a Junior Machine Learning Engineer at **[Omdena](https://omdena.com)** and as a Data Science Intern, at **[iNueron.ai](https://internship.ineuron.ai)**.
+- I was also fortunate enough to work under the guidance of [**Dr I.Kapur**](https://ict.iitk.ac.in) of **IIT-Kanpur** working on AI Based Cyber Physical Systems. Previously I also worked as a Junior Machine Learning Engineer at **[Omdena](https://omdena.com)** and as a Data Science Intern, at **[iNueron.ai](https://internship.ineuron.ai)**.
 
 - I also spent 2 wonderful summers☀️ at Schools on Deep Learning for Medical Imaging at **[ETS Montreal](https://event.fourwaves.com/dlmi2022/pages)** in 2022 and on AI and Computer Vision at **[IIIT Hyderabad](https://cvit.iiit.ac.in/summerschool2021/)** in 2021. 
 
