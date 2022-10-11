@@ -23,7 +23,7 @@
 - My research intrests lie broadly but not limited in : 
      - **AI for Social Good with focus on Healthcare and Sustainability**
      - **Ethics and Policies in AI**
-     - **Human-AI Collaboration**
+     - **Human-AI Interaction**
      - **AI for Creativity** 
     
 - For any projects,ideas,discussions or collaborations feel free to reach me at my mail ✉️ : adinarendra0108@gmail.com
