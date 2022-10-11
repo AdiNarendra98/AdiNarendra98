@@ -12,7 +12,7 @@
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/ineuron.jpeg"  width="120"/>
 </p>
 
-- I'm **Aditya Narendra** a Deep Learning Intern 🧑🏻‍💻,**[Center of Excellence - Artificial Intelligence,OUTR](https://www.linkedin.com/company/center-of-excellence-artificial-intelligence-bbsr/mycompany/)** on ***Intelligent Systems Design for Smart Cities*** .
+- I'm **Aditya Narendra** a Deep Learning Intern 🧑🏻‍💻,**[Center of Excellence -Artificial Intelligence(Tech-Mahindra),OUTR](https://www.linkedin.com/company/center-of-excellence-artificial-intelligence-bbsr/mycompany/)** on ***Intelligent Systems Design for Smart Cities*** .
 
 - Previously I worked as a Junior Machine Learning Engineer at **[Omdena](https://omdena.com)** on *Vision Based Garbage Segmentation System* and as a Data Science Intern, at **[iNueron.ai](https://internship.ineuron.ai)** on *Heart Disease Analysis*.
 
