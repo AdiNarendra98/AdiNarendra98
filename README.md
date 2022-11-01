@@ -22,7 +22,6 @@
 
 - My research intrests lie broadly but not limited in : 
      - **AI for Social Good with focus on Healthcare and Sustainability**
-     - **Ethics and Policies in AI**
      - **Human-AI Interaction**
      - **AI for Creativity** 
     
