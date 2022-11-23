@@ -12,7 +12,7 @@
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/ineuron.jpeg"  width="120"/>
 </p>
 
-- I'm **Aditya Narendra** a Deep Learning Intern 🧑🏻‍💻 at the **[Center of Excellence -Artificial Intelligence(Tech-Mahindra),OUTR](https://www.linkedin.com/company/center-of-excellence-artificial-intelligence-bbsr/mycompany/)** on **Intelligent Systems Design for Smart Cities** .
+- I'm **Aditya Narendra** a Research Intern 🧑🏻‍💻 at the **[Center of Excellence -Artificial Intelligence(Tech-Mahindra),OUTR](https://www.linkedin.com/company/center-of-excellence-artificial-intelligence-bbsr/mycompany/)** on **Intelligent Systems Design for Smart Cities** .
 
 - Previously I worked as a Junior Machine Learning Engineer at **[Omdena](https://omdena.com)** on **Vision Based Garbage Segmentation System** and as a Data Science Intern, at **[iNueron.ai](https://internship.ineuron.ai)**.
 
@@ -28,7 +28,7 @@
     
 - For any projects,ideas,discussions or collaborations feel free to reach me at my mail ✉️ : adinarendra0108@gmail.com
 
-- Link to Curriculum vitae 📑 : [My CV(May-22)](https://drive.google.com/file/d/1Vg6U3lafTrGfWSUnq-owywPBloGADI8T/view?usp=sharing)
+- Link to Curriculum vitae 📑 : [My CV(Oct'22)](https://drive.google.com/file/d/1PlYzcr695l8WAHHswnoKjlJ60GRcUC1O/view?usp=sharing)
 
 
 
