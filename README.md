@@ -23,6 +23,7 @@
 - My research intrests lie broadly but not limited in : 
      - **AI for Social Good with focus on Healthcare and Climate Change**
      - **Brain Inspired Deep Learning** 
+     - **AI for Policy Making**
      - **Human-AI Interaction**
  
     
