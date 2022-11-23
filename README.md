@@ -1,17 +1,17 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">
 
 <p float="center">
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/ets.png"  width="110"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/ets.png"  width="100"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/iiithyd.png"  width="110"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/iiithyd.png"  width="100"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/coe%20ai%20logo.jpg"  width="110"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/coe%20ai%20logo.jpg"  width="100"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/cordai.png"  width="210"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/cordai.png"  width="180"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/omdena.png"  width="170"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/omdena.png"  width="160"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/ineuron.jpeg"  width="110"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/ineuron.jpeg"  width="100"/>
 </p>
 
 - I'm **Aditya Narendra** a Research Intern 🧑🏻‍💻 at the **[Center of Excellence -Artificial Intelligence(Tech-Mahindra),OUTR](https://www.linkedin.com/company/center-of-excellence-artificial-intelligence-bbsr/mycompany/)** on **Intelligent Systems Design for Smart Cities** .
