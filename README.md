@@ -16,7 +16,7 @@
 
 - I am also working as an Research Collaborator at Cord.ai for an Ministry of Agriculture and Farmers' Welfare,Govt of India project on **predictive modelling and textual analysis**.
 
-- Previously I worked as a Junior Machine Learning Engineer at **[Omdena](https://omdena.com)** on **Vision Based Garbage Segmentation System** and as a Data Science Intern, at **[iNueron.ai](https://internship.ineuron.ai)** and at **[The Sparks Foundation](https://internship.thesparksfoundation.info/index.html).
+- Previously I worked as a Junior Machine Learning Engineer at **[Omdena](https://omdena.com)** on **Vision Based Waste Segmentation System** and as a Data Science Intern, at **[iNueron.ai](https://internship.ineuron.ai)** and at **[The Sparks Foundation](https://internship.thesparksfoundation.info/index.html)**.
 
 - I also spent 2 wonderful summers☀️ at Schools on **Deep Learning for Medical Imaging** at **[ETS Montreal](https://event.fourwaves.com/dlmi2022/pages)** in 2022 and on **AI and Computer Vision** at **[IIIT Hyderabad](https://cvit.iiit.ac.in/summerschool2021/)** in 2021. 
 
