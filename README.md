@@ -10,6 +10,8 @@
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/cordai.png"  width="180"/>
   &emsp;
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/omdena.png"  width="160"/>
+   &emsp;
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/ineuron.jpeg"  width="160"/>
 </p>
 
 - I'm **Aditya Narendra** a Research Intern 🧑🏻‍💻 at the **[Center of Excellence -Artificial Intelligence(Tech-Mahindra),OUTR](https://www.linkedin.com/company/center-of-excellence-artificial-intelligence-bbsr/mycompany/)** on **Intelligent Systems Design for Smart Cities** .
