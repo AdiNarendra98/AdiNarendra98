@@ -16,7 +16,7 @@
 
 - I'm **Aditya Narendra** a Research Intern 🧑🏻‍💻 at the **[Center of Excellence -Artificial Intelligence(Tech-Mahindra),OUTR](https://www.linkedin.com/company/center-of-excellence-artificial-intelligence-bbsr/mycompany/)** on **Intelligent Systems Design for Smart Cities** .
 
-- I am also working as an Research Collaborator at Cord.ai for an Ministry of Agriculture and Farmers' Welfare,Govt of India project on **predictive modelling and textual analysis**.
+- I am also working as an Research Collaborator at [**Cord.ai**](https://cordai.org/teams.html) for an ****Ministry of Agriculture and Farmers' Welfare,Govt of India**** project on **predictive modelling and textual analysis**.
 
 - Previously I worked as a Junior Machine Learning Engineer at **[Omdena](https://omdena.com)** on **Vision Based Waste Segmentation System** and as a Data Science Intern, at **[iNueron.ai](https://internship.ineuron.ai)** and at **[The Sparks Foundation](https://internship.thesparksfoundation.info/index.html)**.
 
@@ -33,7 +33,7 @@
     
 - For any projects,ideas,discussions or collaborations feel free to reach me at my mail ✉️ : adinarendra0108@gmail.com
 
-- Link to Curriculum vitae 📑 : [My CV(Oct'22)](https://drive.google.com/file/d/1lHZnDsf6QjVE9jJBif7RNY0pH5vy_GkZ/view?usp=sharing)
+- Link to Curriculum vitae 📑 : [My CV(Oct'22)](https://drive.google.com/file/d/1inxIwsRao-iNk0DzWe5_3wknHiUcBw9F/view?usp=sharing)
 
 
 
