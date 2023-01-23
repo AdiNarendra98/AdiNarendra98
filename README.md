@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">
 
 <p float="center">
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/eth.png"  width="100" />
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/eth1.png"  width="140" height="100"/>
   &emsp;
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/cmu%20logo.jpg"  width="100"/>
   &emsp;
@@ -11,9 +11,9 @@
   &emsp;
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/coe%20ai%20logo.jpg"  width="100"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/cordai.png"  width="120"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/omdena.png"  width="160" height="100"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/omdena.png"  width="120"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/cordai.png"  width="240" height="100"/>
 </p>
 
 
