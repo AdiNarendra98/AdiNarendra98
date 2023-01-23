@@ -19,12 +19,12 @@
 </p>
 
 
-I am a **research affiliate** at **[ETH Zurich](https://ethz.ch)** and a **research intern** at **[Carnegie Mellon University](https://www.cmu.edu)**. I am also research collaborator at **[Cord.ai](https://cordai.org)** for an **[MOAFW](https://agricoop.nic.in)** project. 
+I'm Aditya Narendra, a **research affiliate** at **[ETH Zurich](https://ethz.ch)** and a **research intern** at **[Carnegie Mellon University](https://www.cmu.edu)**. I am also research collaborator at **[Cord.ai](https://cordai.org)** for an **[MOAFW](https://agricoop.nic.in)** project. 
+
 - My research intrests lie broadly but not limited in : 
      - **AI for Social Good with focus on Healthcare and Climate Change**
-     - **Brain Inspired Deep Learning** 
+     - **Artificial Cognitive Systems** 
      - **AI for Policy Making**
-     - **Human-AI Interaction**
      
 - For any projects,ideas,discussions or collaborations feel free to reach me at my mail ✉️ : adinarendra0108@gmail.com
 - To know more about me and my work, please visit my **[Personal Website](https://adinarendra98.github.io)**.
