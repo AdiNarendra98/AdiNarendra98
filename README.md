@@ -13,7 +13,6 @@
   &emsp;
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/omdena.png"  height="100"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/cordai.png"  height="50"/>
 </p>
 
 
