@@ -19,7 +19,7 @@
 </p>
 
 
-I am a **research affiliate** at **[ETH Zurich]()** and a **research intern** at **[Carnegie Mellon University](). I am also research collaborator at **[Cord.ai]()** for an **[MOAFW]()** project. 
+I am a **research affiliate** at **[ETH Zurich](https://ethz.ch)** and a **research intern** at **[Carnegie Mellon University](https://www.cmu.edu)**. I am also research collaborator at **[Cord.ai](https://cordai.org)** for an **[MOAFW](https://agricoop.nic.in)** project. 
 - My research intrests lie broadly but not limited in : 
      - **AI for Social Good with focus on Healthcare and Climate Change**
      - **Brain Inspired Deep Learning** 
