@@ -14,8 +14,6 @@
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/cordai.png"  width="120"/>
   &emsp;
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/omdena.png"  width="120"/>
-   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/ineuron.jpeg"  width="100"/>
 </p>
 
 
