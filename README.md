@@ -1,6 +1,5 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">
 
-![](https://komarev.com/ghpvc/?username=AdiNarendra98)
 
 <p float="center">
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/eth1.png"  width="140" height="100"/>
