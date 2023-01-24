@@ -1,5 +1,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">
 
+![](https://komarev.com/ghpvc/?username=AdiNarendra98)
+
 <p float="center">
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/eth1.png"  width="140" height="100"/>
   &emsp;
@@ -59,7 +61,6 @@ href="https://event.fourwaves.com/dlmi2022/pages" target="_blank"><b>Hugging Fac
 
  <li><strong>Apr 2021:</strong> Nominated for "<b>Best Undegrad Thesis Award</b>" at <a href="https://www.cet.edu.in/teqip.php" target="_blank"> OUTR</a> 📄 </a>.
  
-![](https://komarev.com/ghpvc/?username=AdiNarendra98)
 
 
 </ul>
