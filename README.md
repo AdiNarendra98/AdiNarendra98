@@ -1,5 +1,4 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">
-![](https://komarev.com/ghpvc/?username=AdiNarendra98)
 
 <p float="center">
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/eth1.png"  width="140" height="100"/>
@@ -56,9 +55,12 @@ href="https://event.fourwaves.com/dlmi2022/pages" target="_blank"><b>Hugging Fac
 
 <li><strong>Aug 2021:</strong> Graduated from <a href="https://www.cet.edu.in/teqip.php" target="_blank"> OUTR</a> 🎓 </a>.
 
- <li><strong>July 2021:</strong> Selected as a participant at <a href="http://cvit.iiit.ac.in/summerschool2021/"><b>5th Summer School on AI</a> with  focus on Computer Vision</b> at <a href="https://www.iiit.ac.in/"><b>IIT Hyderabad</b></a>. See you there ☀️ </a>.
+ <li><strong>July 2021:</strong> Selected as a participant at <a href="http://cvit.iiit.ac.in/summerschool2021/"><b>5th Summer School on AI</a> with  focus on Computer Vision</b> at <a href="https://www.iiit.ac.in/"><b>IIT Hyderabad</b></a>. See you there ☀️</a>
 
  <li><strong>Apr 2021:</strong> Nominated for "<b>Best Undegrad Thesis Award</b>" at <a href="https://www.cet.edu.in/teqip.php" target="_blank"> OUTR</a> 📄 </a>.
+ 
+![](https://komarev.com/ghpvc/?username=AdiNarendra98)
+
 
 </ul>
 </div>
