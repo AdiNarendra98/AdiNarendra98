@@ -40,7 +40,7 @@ I'm Aditya Narendra, a **research affiliate** at **[ETH Zurich](https://ethz.ch)
 
  <li><strong>Nov 2022:</strong> Joined <a href="https://cordai.org/" target="_blank"> <b>Cord.ai</b></a> as a Research Affiliate for a <a href="https://agricoop.nic.in/en"><b>MoAFW(Govt. of India)</b></a> project 🌾</li>
 
- <li><strong>Nov 2022:</strong> Our works <a href="https://doi.org/10.36227/techrxiv.21931398.v1" target="_blank"><b>Chaurah</b></a> and <a href="https://doi.org/10.36227/techrxiv.21836610" target="_blank"><b>From Robots to Books</b></a> is submitted to to the <a href="https://bvicam.ac.in/indiacom/" target="_blank"><b>INDIACom-2023(IEEE)</b></a> 📑.</li>
+ <li><strong>Nov 2022:</strong> Our works <a href="https://doi.org/10.36227/techrxiv.21931398.v1" target="_blank"><b>Chaurah</b></a> and <a href="https://doi.org/10.48550/arXiv.2301.10026" target="_blank"><b>From Robots to Books</b></a> is submitted to to the <a href="https://bvicam.ac.in/indiacom/" target="_blank"><b>INDIACom-2023(IEEE)</b></a> 📑.</li>
 
  <li><strong>Sept 2022:</strong> Started working as a International Research Intern at <a
                                     href="https://www.cmu.edu/" target="_blank">
