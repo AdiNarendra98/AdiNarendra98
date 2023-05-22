@@ -36,7 +36,7 @@ I'm Aditya Narendra, a **research affiliate** at **[ETH Zurich](https://ethz.ch)
 	<li><strong>Dec 2022:</strong> Started working as a Research Collaborator at <a href="https://ethz.ch/en.html" target="_blank">  <b>ETH Zürich</b></a> 🌳.</li>
 
  <li><strong>Dec 2022:</strong> Our works <a href="https://drive.google.com/file/d/1cfBdxD8CGsiC3ga9HMAgUP1Czzb1fLhY/view?usp=sharing"target="_blank">
-<b>MoSwasthya</b></a> and <a href="https://drive.google.com/file/d/1cfBdxD8CGsiC3ga9HMAgUP1Czzb1fLhY/view?usp=sharing" target="_blank"> <b>Tech Saplings</b></a> won <b>1st prize worth USD$4,500</b> at <a href="https://www.hackerearth.com/challenges/hackathon/smart-odisha-hackathon-2022/" target="_blank"><b>Smart Odisha Hackathon 2022</b></a> 🏆. </li>
+<b>MoSwasthya</b></a> and <a href="https://drive.google.com/file/d/1cfBdxD8CGsiC3ga9HMAgUP1Czzb1fLhY/view?usp=sharing" target="_blank"> <b>Tech Saplings</b></a> won <b>1st prize 🏆 worth USD$4,500</b> at <a href="https://www.hackerearth.com/challenges/hackathon/smart-odisha-hackathon-2022/" target="_blank"><b>Smart Odisha Hackathon 2022</b></a>. </li>
 
  <li><strong>Nov 2022:</strong> Joined <a href="https://cordai.org/" target="_blank"> <b>Cord.ai</b></a> as a Research Affiliate for a <a href="https://agricoop.nic.in/en"><b>MoAFW(Govt. of India)</b></a> project 🌾</li>
 
