@@ -51,7 +51,7 @@ I'm Aditya Narendra, a **research affiliate** at **[ETH Zurich](https://ethz.ch)
 href="https://event.fourwaves.com/dlmi2022/pages" target="_blank"><b>Hugging Face
                                     Gradio NYC Hackathon</b></a> 🥈.
 
-<li><strong>July 2022:</strong> Selected as a participant for <a
+<li><strong>July 2022:</strong> Selected for attending <a
  href="https://event.fourwaves.com/dlmi2022/pages" target="_blank"> <b>2022 Summer school on deep learning for medical imaging(3rd Edition)</b></a> at <a href="https://www.etsmtl.ca/" target="_blank"> <b>ETS Montreal</b></a>. See you there 👋🏼 </a>.
 
 <li><strong>Aug 2021:</strong> Graduated from <a href="https://www.cet.edu.in/teqip.php" target="_blank"> <b>OUTR</b></a> 🎓 </a>.
