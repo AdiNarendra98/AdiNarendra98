@@ -25,7 +25,7 @@ I'm Aditya Narendra, a **research affiliate** at **[ETH Zurich](https://ethz.ch)
      - **AI for Policy Making**
      
 - For any projects,ideas,discussions or collaborations feel free to reach me at my mail ✉️ : adinarendra0108@gmail.com
-- For more details, please visit my **[Personal Website](https://adinarendra98.github.io)**.
+
 
 <details>
 <summary>News & Updates: (Click to expand)</summary>
