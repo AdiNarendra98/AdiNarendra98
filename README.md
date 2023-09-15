@@ -18,13 +18,8 @@
 
 
 I'm Aditya Narendra, a **research affiliate** at **[ETH Zurich](https://ethz.ch)** and a **research intern** at **[Carnegie Mellon University](https://www.cmu.edu)**. I am also **research collaborator** at **[Cord.ai](https://cordai.org)** for an **[MOAFW](https://agricoop.nic.in)** project. In the past, I had the fortune of interning at [**Tech Mahindra**](http://www.coeaibbsr.in), [**ETS Montreal**](https://www.etsmtl.ca/en/home), [**Omdena**](https://omdena.com) & [**IIIT Hyderabad**](https://www.iiit.ac.in) working on various research verticals of AI.
-
-- My research interests include, but are not limited to:
-     - **AI for Social Good with focus on Healthcare and Climate Change**
-     - **Artificial Cognitive Systems** 
-     - **AI for Policy Making**
      
-- For any projects,ideas,discussions or collaborations feel free to reach me at my mail ✉️ : adinarendra0108@gmail.com
+- For any projects,ideas, discussions or collaborations feel free to reach me at my mail ✉️ : adinarendra0108@gmail.com
 
 
 <details>
