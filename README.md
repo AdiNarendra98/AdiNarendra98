@@ -49,9 +49,10 @@ href="https://event.fourwaves.com/dlmi2022/pages" target="_blank"><b>Hugging Fac
 <li><strong>July 2022:</strong> Selected for attending <a
  href="https://event.fourwaves.com/dlmi2022/pages" target="_blank"> <b>2022 Summer School on Deep Learning for Medical Imaging(3rd Edition)</b></a> at <a href="https://www.etsmtl.ca/" target="_blank"> <b>ETS Montreal</b></a>. See you there 👋🏼 </a>.
 
-<li><strong>Aug 2021:</strong> Graduated from <a href="https://www.cet.edu.in/teqip.php" target="_blank"> <b>OUTR</b></a> 🎓 </a>.
 
  <li><strong>July 2021:</strong> Selected as a participant at <a href="http://cvit.iiit.ac.in/summerschool2021/"><b>5th Summer School on AI</a> with  focus on Computer Vision</b> at <a href="https://www.iiit.ac.in/"><b>IIT Hyderabad</b></a>. See you there ☀️</a>
+
+ <li><strong>May 2021:</strong> Graduated from <a href="https://www.cet.edu.in/teqip.php" target="_blank"> <b>OUTR</b></a> 🎓 </a>.
 
  <li><strong>Apr 2021:</strong> Nominated for "<b>Best Undegraduate Thesis Award 2023</b>" at <a href="https://www.cet.edu.in/teqip.php" target="_blank"><b>OUTR</b></a> 📄 </a>.
  
