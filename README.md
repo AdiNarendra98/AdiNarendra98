@@ -17,8 +17,9 @@
 </p>
 
 
-I'm Aditya Narendra, a **research affiliate** at **[ETH Zurich](https://ethz.ch)** and a **research intern** at **[Carnegie Mellon University](https://www.cmu.edu)**. I am also **research collaborator** at **[Cord.ai](https://cordai.org)** for an **[MOAFW](https://agricoop.nic.in)** project. In the past, I had the fortune of interning at [**Tech Mahindra**](http://www.coeaibbsr.in), [**ETS Montreal**](https://www.etsmtl.ca/en/home), [**Omdena**](https://omdena.com) & [**IIIT Hyderabad**](https://www.iiit.ac.in) working on various research verticals of AI.
+I'm Aditya Narendra, a **research affiliate** at [**ETH Zurich**](https://ethz.ch). In the past, I had the fortune of working at [**Carnegie Mellon University**](https://www.cmu.edu),  [**Tech Mahindra**](http://www.coeaibbsr.in), [**ETS Montreal**](https://www.etsmtl.ca/en/home), [**Omdena**](https://omdena.com) & [**IIIT Hyderabad**](https://www.iiit.ac.in) working on various research verticals of AI.
      
+- Check out my website : **[adinarendra98.github.io](https://adinarendra98.github.io)**
 - For any projects,ideas, discussions or collaborations feel free to reach me at my mail ✉️ : adinarendra0108@gmail.com
 
 
@@ -35,9 +36,7 @@ I'm Aditya Narendra, a **research affiliate** at **[ETH Zurich](https://ethz.ch)
 
  <li><strong>Nov 2022:</strong> Joined <a href="https://cordai.org/" target="_blank"> <b>Cord.ai</b></a> as a Research Affiliate for a <a href="https://agricoop.nic.in/en"><b>MoAFW(Govt. of India)</b></a> project 🌾</li>
 
- <li><strong>Nov 2022:</strong> Our works <a href="https://doi.org/10.36227/techrxiv.21931398.v1" target="_blank"><b>Chaurah</b></a> and <a href="https://doi.org/10.48550/arXiv.2301.10026" target="_blank"><b>From Robots to Books</b></a> is submitted to to the <a href="https://bvicam.ac.in/indiacom/" target="_blank"><b>INDIACom-2023(IEEE)</b></a> 📑.</li>
-
- <li><strong>Sept 2022:</strong> Started working as a International Research Intern at <a
+ <li><strong>Aug 2022:</strong> Started working as a International Research Intern at <a
                                     href="https://www.cmu.edu/" target="_blank">
                                     <b>Carnegie Mellon University</b></a> 🧠 .</li>
 
