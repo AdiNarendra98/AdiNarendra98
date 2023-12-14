@@ -14,6 +14,8 @@
   &emsp;
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/omdena.png"  height="100"/>
   &emsp;
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/coe%20ai%20logo.jpg"  width="100"/>
+  &emsp;
 </p>
 
 
