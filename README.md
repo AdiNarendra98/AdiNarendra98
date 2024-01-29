@@ -28,7 +28,10 @@ I'm Aditya Narendra, a **research affiliate** at [**ETH Zurich**](https://ethz.c
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
 <ul id="news">
-	<li><strong>Dec 2022:</strong> Started working as a Research Collaborator at <a href="https://ethz.ch/en.html" target="_blank">  <b>ETH Zürich</b></a> 🌳.</li>
+
+ <li><strong>Dec 2022:</strong> Won 1st Prize at <a href="https://drive.google.com/drive/folders/15SIo-fezzleG8Jr0S-EO1vTzByNwvklZ?usp=share_link">  <b>Smart Odisha Hackathon</b></a> 🌳.</li>
+ 
+<li><strong>Dec 2022:</strong> Started working as a Research Collaborator at <a href="https://ethz.ch/en.html" target="_blank">  <b>ETH Zürich</b></a> 🌳.</li>
 
  <li><strong>Dec 2022:</strong> Our works <a href="https://drive.google.com/file/d/1cfBdxD8CGsiC3ga9HMAgUP1Czzb1fLhY/view?usp=sharing"target="_blank">
 <b>MoSwasthya</b></a> and <a href="https://github.com/AdiNarendra98/MoSwasthya-SmartOdishaHackathon-22"> <b>Tech Saplings</b></a> won <b>1st prize 🏆 worth $4,500</b> at <a href="https://www.hackerearth.com/challenges/hackathon/smart-odisha-hackathon-2022/" target="_blank"><b>Smart Odisha Hackathon 2022</b></a>. </li>
