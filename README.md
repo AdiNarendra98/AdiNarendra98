@@ -22,49 +22,6 @@ I'm Aditya Narendra, a **research affiliate** at [**ETH Zurich**](https://ethz.c
 - For any ideas, discussions or collaborations feel free to reach me at my mail ✉️ : adinarendra0108@gmail.com
 - Do check out my website: **https://adinarendra098.github.io**
 
-
-
-<details>
-<summary>News & Updates: (Click to expand)</summary>
-
-<p>
-<div style="width:100%;overflow-y:scroll; height:230px;">
-<ul id="news">
-
- 
-<li><strong>Dec 2022:</strong> Started working as a Research Affiliate at <a href="https://ethz.ch/en.html" target="_blank">  <b>ETH Zürich</b></a> 🌳.</li>
-
- <li><strong>Dec 2022:</strong> Our works <a href="https://drive.google.com/file/d/1cfBdxD8CGsiC3ga9HMAgUP1Czzb1fLhY/view?usp=sharing"target="_blank">
-<b>MoSwasthya</b></a> and <a href="https://github.com/AdiNarendra98/MoSwasthya-SmartOdishaHackathon-22"> <b>Tech Saplings</b></a> won <b>1st prize 🏆 worth $4,500</b> at <a href="https://www.hackerearth.com/challenges/hackathon/smart-odisha-hackathon-2022/" target="_blank"><b>Smart Odisha Hackathon 2022</b></a>. </li>
-
- <li><strong>Nov 2022:</strong> Joined <a href="https://cordai.org/" target="_blank"> <b>Cord.ai</b></a> as a Research Collaborator for a <a href="https://agricoop.nic.in/en"><b>MoAFW(Govt. of India)</b></a> project 🌾</li>
-
- <li><strong>Aug 2022:</strong> Started working as a International Research Intern at <a
-                                    href="https://www.cmu.edu/" target="_blank">
-                                    <b>Carnegie Mellon University</b></a> 🧠 .</li>
-
-
- <li><strong>Aug 2022:</strong>Won <b>2nd prize worth USD $250</b> at the <a
-href="https://event.fourwaves.com/dlmi2022/pages" target="_blank"><b>Hugging Face
-                                    Gradio NYC Hackathon</b></a> 🥈.
-
-<li><strong>July 2022:</strong> Selected for attending <a
- href="https://event.fourwaves.com/dlmi2022/pages" target="_blank"> <b>2022 Summer School on Deep Learning for Medical Imaging(3rd Edition)</b></a> at <a href="https://www.etsmtl.ca/" target="_blank"> <b>ETS Montreal</b></a>. See you there 👋🏼 </a>.
-
-
- <li><strong>July 2021:</strong> Selected as a participant at <a href="http://cvit.iiit.ac.in/summerschool2021/"><b>5th Summer School on AI</a> with  focus on Computer Vision</b> at <a href="https://www.iiit.ac.in/"><b>IIT Hyderabad</b></a>. See you there ☀️</a>
-
- <li><strong>May 2021:</strong> Graduated from <a href="https://www.cet.edu.in/teqip.php" target="_blank"> <b>OUTR</b></a> 🎓 </a>.
-
- <li><strong>Apr 2021:</strong> Nominated for "<b>Best Undegraduate Thesis Award 2023</b>" at <a href="https://www.cet.edu.in/teqip.php" target="_blank"><b>OUTR</b></a> 📄 </a>.
- 
-
-
-</ul>
-</div>
-</p>
-      
-</details>
   
 
 
