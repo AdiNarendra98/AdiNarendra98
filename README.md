@@ -20,7 +20,6 @@
 I'm Aditya Narendra, a **research affiliate** at [**ETH Zurich**](https://ethz.ch). In the past, I had the fortune of working at [**Carnegie Mellon University**](https://www.cmu.edu),  [**Tech Mahindra**](http://www.coeaibbsr.in), [**ETS Montreal**](https://www.etsmtl.ca/en/home), [**Neuromatch Academy**](https://academy.neuromatch.io/about), [**Omdena**](https://omdena.com) & [**IIIT Hyderabad**](https://www.iiit.ac.in) working on various research verticals of AI.
      
 - For any ideas, discussions or collaborations feel free to reach me at my mail ✉️ : adinarendra0108@gmail.com
-- Do check out my website: **https://adinarendra098.github.io**
 
   
 
