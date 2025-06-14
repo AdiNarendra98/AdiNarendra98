@@ -12,7 +12,7 @@
   &emsp;
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/coe%20ai%20logo.jpg"  width="100"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/UC-1.png"  height="100"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/UC1.png"  height="100"/>
   &emsp;
 </p>
 
