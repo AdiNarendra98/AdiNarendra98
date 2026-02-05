@@ -2,7 +2,7 @@
 
 
 <p float="center">
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/iit-indore-01.jpg"  width="110"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/IITI.png"  width="100"/>
   &emsp;
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/TechM.webp"  width="110"/>
   &emsp;
