@@ -2,13 +2,13 @@
 
 
 <p float="center">
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/iit-indore-01.jpg"  width="130"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/iit-indore-01.jpg"  width="110"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/TechM.webp"  width="130"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/TechM.webp"  width="110"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/UC.png"  height="98"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/UC.png"  height="95"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/eth1.png"  width="140" height="100"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/eth1.png"  width="110" height="100"/>
   &emsp;
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/cmu%20logo.jpg"  width="100"/>
   &emsp;
