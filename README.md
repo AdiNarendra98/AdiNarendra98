@@ -10,11 +10,11 @@
   &emsp;
   <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/eth1.png"  width="110" height="100"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/cmu%20logo.jpg"  width="100"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/cmu%20logo.jpg"  width="95"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/ets.png"  width="100"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/ets.png"  width="95"/>
   &emsp;
-  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/iiithyd.png"  width="100"/>
+  <img src="https://github.com/AdiNarendra98/AdiNarendra98/blob/main/ss/iiithyd.png"  width="95"/>
   &emsp;
 </p>
 
